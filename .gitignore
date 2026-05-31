@@ -1,0 +1,60 @@
+# ------------------------------
+# OS artifacts
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# IDE settings
+# ------------------------------
+*.iml
+.idea/
+.vscode/
+
+# ------------------------------
+# Gradle & Android build outputs
+# ------------------------------
+.gradle/
+.kotlin/
+**/build/
+local.properties
+
+# External/NDK builds
+.externalNativeBuild/
+.cxx/
+obj/
+
+# ------------------------------
+# Packages / artifacts
+# ------------------------------
+*.apk
+*.ap_
+*.aab
+
+# ------------------------------
+# Compiled outputs
+# ------------------------------
+*.dex
+*.class
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+hs_err_pid*
+
+# ------------------------------
+# Keys and keystores
+# ------------------------------
+#*.jks
+#*.keystore
+
+# ------------------------------
+# Misc
+# ------------------------------
+captures/
+.navigation/
+*.zip
+.aider*
+.local*
+skills
