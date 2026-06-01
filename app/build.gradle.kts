@@ -28,7 +28,7 @@ android {
 
 dependencies {
 //    implementation(project(":albumlive"))
-    implementation("com.github.jtdsmz:albumlive:0.1.0")
+    implementation("com.github.jtdsmz:albumlive:0.1.1")
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
