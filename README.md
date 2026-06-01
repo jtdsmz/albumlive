@@ -32,7 +32,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.<GitHubUser>.<Repo>:albumlive:<Tag>")
+    implementation("com.github.jtdsmz:albumlive:<Tag>")
 }
 ```
 
