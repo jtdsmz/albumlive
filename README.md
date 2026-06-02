@@ -12,7 +12,7 @@
 - 识别实况照片 / Motion Photo。
 - 拆解实况照片，输出封面图和视频。
 - 用 JPEG 封面图 + 视频合成 Motion Photo。
-- 保存 Motion Photo 到系统相册，主流系统可识别。
+- 保存 Motion Photo 到系统相册，主流系统（小米，oppo，vivo，华为，荣耀）可识别。
 - 支持常见单文件 Motion Photo 和同名图片/视频配对实况。
 
 ## 引入
